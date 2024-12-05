@@ -28,6 +28,8 @@
           cargo-audit
           cargo-expand
           cargo-flamegraph
+          cargo-generate
+          cargo-nextest
           clippy
           rustfmt
           just
