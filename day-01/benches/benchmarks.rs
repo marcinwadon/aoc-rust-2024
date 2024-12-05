@@ -1,4 +1,4 @@
-use {{crate_name}}::*;
+use day_01::*;
 
 fn main() {
     divan::main();
